@@ -1,0 +1,20 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #c9b5ab,
+}
+
+h1,h2 {
+  color: #3f1622,
+  font-size: 1.5rem
+}
+
+nav{
+  color# #8f2440,
+}
